@@ -24,15 +24,16 @@ A car controlled entirely through hand gestures, with no physical controller req
 | Ok | Turn counterclockwise |
 | Open Palm | Stop |
 
-*(update with your actual gestures)*
-
 ---
 
 ## Hardware
 
 - 3x Arduino Nano 33 BLE Sense
-- Camera module (OV7675 or similar)
-- DC motors + motor driver
+- 2x Solderless Breadboard
+- Jumper Wires
+- Camera module (OV7670 or OV7675)
+- 4x TT 1:48 DC Motors
+- 2x TB6612FNG Motor Drivers
 - Car chassis
 
 ## Libraries Required
