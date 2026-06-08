@@ -2,7 +2,7 @@
 
 A car controlled entirely through hand gestures, with no physical controller required. TBot uses computer vision and Bluetooth Low Energy (BLE) to translate gestures into real-time movement commands across a three-device embedded system.
 
-
+![Project Poster](Project_poster.png)
 ---
 
 ## How It Works
@@ -44,4 +44,16 @@ A car controlled entirely through hand gestures, with no physical controller req
 
 ## Repository Structure
 
-![Project Poster](Project_poster.png)
+---
+
+## Demo
+
+📹 [Watch TBot in action](YOUR_GOOGLE_DRIVE_LINK_HERE)
+
+---
+
+## Background
+
+Built as a high school engineering project. The goal was to explore edge ML inference and multi-device BLE communication on low-power embedded hardware.
+
+
