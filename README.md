@@ -18,10 +18,11 @@ A car controlled entirely through hand gestures, with no physical controller req
 
 | Gesture | Action |
 |--------|--------|
-| ✋ Open hand | Forward |
-| ✊ Fist | Stop |
-| 👈 Point left | Turn left |
-| 👉 Point right | Turn right |
+| Like (Thumbs up) | Forward |
+| Dislike (Thumbs down) | Backward |
+| Fist | Turn clockwise |
+| Ok | Turn counterclockwise |
+| Open Palm | Stop |
 
 *(update with your actual gestures)*
 
